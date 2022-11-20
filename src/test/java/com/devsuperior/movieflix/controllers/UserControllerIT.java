@@ -38,7 +38,7 @@ public class UserControllerIT {
 		
 		visitorUsername = "bob@gmail.com";
 		visitorPassword = "123456";
-		memberUsername = "ana@gmail.com";
+		memberUsername = "anna@gmail.com";
 		memberPassword = "123456";
 	}
 	
